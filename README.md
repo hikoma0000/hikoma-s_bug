@@ -4,5 +4,6 @@
 意味わからん
 
 ## その他
-- ## hurakutaru.mcfunctionについて
+- ## hurakutaru_bug.mcfunctionについて
+コマンドブロックではなくdatapackのmcfunctionとして実行しましょう
 

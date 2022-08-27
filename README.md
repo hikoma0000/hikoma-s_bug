@@ -4,4 +4,5 @@
 意味わからん
 
 ## その他
-### hurakutaru.mcfunctionについて
+- hurakutaru.mcfunctionについて
+

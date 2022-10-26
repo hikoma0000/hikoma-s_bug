@@ -1,9 +1,1 @@
-## ヒコマのバグたち
-歴戦のバグたち
-
-意味わからん
-
-## その他
-- ### [hurakutaru_bug](https://github.com/hikoma0000/hikoma-s_bug/blob/main/hurakutaru_bug.mcfunction)について
-     コマンドブロックではなくdatapackのmcfunctionとして実行しましょう
-
+[Gist](https://gist.github.com/hikoma0000/3ce702d2f83f39baa8aec4f159fbb103)に移ったよ

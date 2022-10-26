@@ -1,3 +1,0 @@
-## コマンドブロックではなくfunctionとしての実行をお願いします
-
-execute as @e[tag=A] at @s facing entity @e[tag=B] feet positioned ^ ^ ^25.6 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^12.8 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^6.4 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^3.2 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^1.6 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^0.8 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^0.4 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^0.2 facing entity @e[tag=C,distance=0.1..] feet positioned ^ ^ ^0.1 facing entity @e[tag=C,distance=0.1..] feet run particle minecraft:dust 1 1 1 0.65 ~ ~ ~ 0 0 0 0 1
